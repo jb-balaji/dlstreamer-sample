@@ -7,5 +7,6 @@ DL Streamer is now part of Open Edge Platform, for latest updates and releases p
 
 https://dlstreamer.github.io/
 
+![Alt text](media/Video_DLStreamer.gif)
 
 ### @Author : JB
